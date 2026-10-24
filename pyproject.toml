@@ -1,0 +1,23 @@
+[project]
+name = "prandialtwin"
+version = "0.1.0"
+description = "Self-updating physiological digital twin for post-meal hyperglycaemia (Happiest Health Digital Twin Challenge 2026)"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "numpy>=1.26", "pandas>=2.1", "scipy>=1.11", "scikit-learn>=1.4", "lightgbm>=4.0",
+  "matplotlib>=3.8", "requests>=2.31", "openpyxl>=3.1", "xlrd>=2.0", "streamlit>=1.40", "plotly>=5.20",
+]
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+chronos = ["chronos-forecasting>=2.2", "torch>=2.2"]  # Chronos-2 and the neural baselines
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["twin"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

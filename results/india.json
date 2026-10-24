@@ -1,0 +1,892 @@
+{
+ "north": {
+  "n": 60,
+  "diet": {
+   "kcal_day": 1770.5,
+   "carb": 56.0,
+   "fat": 30.3,
+   "protein": 13.7,
+   "sugar": 7.7,
+   "rice": 8.2,
+   "wheat": 22.6,
+   "millet": 1.5,
+   "animal": 0.2,
+   "meal_gi": 58.3
+  },
+  "body": {
+   "age": 39.5,
+   "bmi": 23.15,
+   "male": 0.42,
+   "inactive": 0.67,
+   "family": 0.15,
+   "hba1c": 5.6,
+   "fpg": 102.0,
+   "tg": 121.5,
+   "hdl": 41.5
+  },
+  "groups": {
+   "healthy": 0.45,
+   "prediabetes": 0.43,
+   "T2D": 0.12
+  },
+  "states": {
+   "Rajasthan": 29,
+   "Punjab": 15,
+   "Haryana": 8,
+   "Delhi": 6,
+   "Himachal Pradesh": 2
+  },
+  "twin": {
+   "accuracy": {
+    "30": {
+     "pers": [
+      14.8711,
+      13.943,
+      15.9523
+     ],
+     "lgbm": [
+      6.8815,
+      6.5641,
+      7.245
+     ],
+     "twin": [
+      7.5553,
+      7.0636,
+      8.0423
+     ],
+     "hybrid": [
+      6.1778,
+      5.8572,
+      6.5039
+     ],
+     "hybrid_minus_lgbm": [
+      -0.7037,
+      -1.0096,
+      -0.4441
+     ]
+    },
+    "60": {
+     "pers": [
+      24.6904,
+      23.0007,
+      26.4609
+     ],
+     "lgbm": [
+      12.2864,
+      11.6757,
+      13.0135
+     ],
+     "twin": [
+      15.7861,
+      14.7388,
+      16.8637
+     ],
+     "hybrid": [
+      11.5718,
+      10.8464,
+      12.3636
+     ],
+     "hybrid_minus_lgbm": [
+      -0.7146,
+      -1.1105,
+      -0.3409
+     ]
+    },
+    "120": {
+     "pers": [
+      32.9426,
+      30.1268,
+      35.8396
+     ],
+     "lgbm": [
+      15.2651,
+      14.262,
+      16.3726
+     ],
+     "twin": [
+      25.0806,
+      23.3249,
+      27.0252
+     ],
+     "hybrid": [
+      15.2501,
+      13.9008,
+      16.664
+     ],
+     "hybrid_minus_lgbm": [
+      -0.015,
+      -0.6421,
+      0.6295
+     ]
+    }
+   },
+   "verification": {
+    "n_train": 30,
+    "n_test": 30,
+    "rise50_spearman": 0.845,
+    "gb_spearman": 0.963,
+    "gb_mae_mgdl": 4.7,
+    "carbs_minus_40pct": {
+     "n": 120,
+     "true_mean": -16.9,
+     "twin_mean": -14.1,
+     "r": 0.787,
+     "sign_agreement": 1.0,
+     "mae": 4.0
+    },
+    "walk_30min": {
+     "n": 120,
+     "true_mean": -3.3,
+     "twin_mean": -1.8,
+     "r": 0.202,
+     "sign_agreement": 0.983,
+     "mae": 1.8
+    }
+   },
+   "meals": 1158,
+   "spike_share": 0.244,
+   "peak_rise": 57.8
+  }
+ },
+ "south": {
+  "n": 60,
+  "diet": {
+   "kcal_day": 1616.1,
+   "carb": 60.2,
+   "fat": 27.1,
+   "protein": 12.7,
+   "sugar": 7.6,
+   "rice": 29.9,
+   "wheat": 7.8,
+   "millet": 1.3,
+   "animal": 0.9,
+   "meal_gi": 65.7
+  },
+  "body": {
+   "age": 40.5,
+   "bmi": 21.65,
+   "male": 0.53,
+   "inactive": 0.53,
+   "family": 0.18,
+   "hba1c": 5.7,
+   "fpg": 102.0,
+   "tg": 128.5,
+   "hdl": 40.5
+  },
+  "groups": {
+   "healthy": 0.42,
+   "prediabetes": 0.47,
+   "T2D": 0.12
+  },
+  "states": {
+   "Tamil Nadu": 19,
+   "Andhra Pradesh": 19,
+   "Karnataka": 15,
+   "Kerala": 6,
+   "Puducherry": 1
+  },
+  "twin": {
+   "accuracy": {
+    "30": {
+     "pers": [
+      17.9591,
+      16.4229,
+      19.5757
+     ],
+     "lgbm": [
+      8.845,
+      7.8816,
+      9.8358
+     ],
+     "twin": [
+      8.9061,
+      8.2736,
+      9.6434
+     ],
+     "hybrid": [
+      7.3031,
+      6.8254,
+      7.8905
+     ],
+     "hybrid_minus_lgbm": [
+      -1.5419,
+      -2.3836,
+      -0.9045
+     ]
+    },
+    "60": {
+     "pers": [
+      29.0886,
+      26.531,
+      31.9783
+     ],
+     "lgbm": [
+      14.9977,
+      13.4359,
+      16.7175
+     ],
+     "twin": [
+      18.8309,
+      17.2993,
+      20.574
+     ],
+     "hybrid": [
+      13.9726,
+      12.8452,
+      15.3554
+     ],
+     "hybrid_minus_lgbm": [
+      -1.0251,
+      -2.0017,
+      -0.2229
+     ]
+    },
+    "120": {
+     "pers": [
+      37.4782,
+      33.5206,
+      42.1957
+     ],
+     "lgbm": [
+      17.8927,
+      15.9994,
+      19.9103
+     ],
+     "twin": [
+      28.2135,
+      25.2205,
+      31.5446
+     ],
+     "hybrid": [
+      18.2934,
+      16.3068,
+      20.7834
+     ],
+     "hybrid_minus_lgbm": [
+      0.4007,
+      -0.3919,
+      1.2608
+     ]
+    }
+   },
+   "verification": {
+    "n_train": 30,
+    "n_test": 30,
+    "rise50_spearman": 0.8,
+    "gb_spearman": 0.873,
+    "gb_mae_mgdl": 6.2,
+    "carbs_minus_40pct": {
+     "n": 120,
+     "true_mean": -21.5,
+     "twin_mean": -19.5,
+     "r": 0.754,
+     "sign_agreement": 1.0,
+     "mae": 4.6
+    },
+    "walk_30min": {
+     "n": 120,
+     "true_mean": -3.2,
+     "twin_mean": -2.1,
+     "r": 0.064,
+     "sign_agreement": 0.95,
+     "mae": 1.8
+    }
+   },
+   "meals": 1165,
+   "spike_share": 0.316,
+   "peak_rise": 66.0
+  }
+ },
+ "east": {
+  "n": 60,
+  "diet": {
+   "kcal_day": 1745.7,
+   "carb": 64.7,
+   "fat": 24.5,
+   "protein": 10.8,
+   "sugar": 7.4,
+   "rice": 35.3,
+   "wheat": 10.8,
+   "millet": 0.0,
+   "animal": 0.9,
+   "meal_gi": 67.7
+  },
+  "body": {
+   "age": 44.0,
+   "bmi": 21.200000000000003,
+   "male": 0.58,
+   "inactive": 0.57,
+   "family": 0.05,
+   "hba1c": 5.45,
+   "fpg": 97.0,
+   "tg": 111.5,
+   "hdl": 41.0
+  },
+  "groups": {
+   "healthy": 0.55,
+   "prediabetes": 0.38,
+   "T2D": 0.07
+  },
+  "states": {
+   "West Bengal": 21,
+   "Bihar": 16,
+   "Odisha": 16,
+   "Jharkhand": 7
+  },
+  "twin": {
+   "accuracy": {
+    "30": {
+     "pers": [
+      23.3385,
+      21.6565,
+      24.7691
+     ],
+     "lgbm": [
+      9.9655,
+      9.3242,
+      10.6079
+     ],
+     "twin": [
+      10.9003,
+      10.1958,
+      11.5017
+     ],
+     "hybrid": [
+      8.7104,
+      8.1298,
+      9.2101
+     ],
+     "hybrid_minus_lgbm": [
+      -1.2551,
+      -1.6275,
+      -0.917
+     ]
+    },
+    "60": {
+     "pers": [
+      37.3179,
+      34.5025,
+      39.9892
+     ],
+     "lgbm": [
+      18.199,
+      16.8629,
+      19.2647
+     ],
+     "twin": [
+      24.4274,
+      22.7371,
+      25.9338
+     ],
+     "hybrid": [
+      18.5025,
+      16.9838,
+      19.7644
+     ],
+     "hybrid_minus_lgbm": [
+      0.3035,
+      -0.5228,
+      1.0051
+     ]
+    },
+    "120": {
+     "pers": [
+      46.816,
+      42.8683,
+      50.8947
+     ],
+     "lgbm": [
+      21.5909,
+      19.9513,
+      23.2633
+     ],
+     "twin": [
+      35.2366,
+      32.4154,
+      38.1441
+     ],
+     "hybrid": [
+      23.6606,
+      21.4084,
+      25.954
+     ],
+     "hybrid_minus_lgbm": [
+      2.0696,
+      0.9149,
+      3.2296
+     ]
+    }
+   },
+   "verification": {
+    "n_train": 30,
+    "n_test": 30,
+    "rise50_spearman": 0.876,
+    "gb_spearman": 0.848,
+    "gb_mae_mgdl": 5.0,
+    "carbs_minus_40pct": {
+     "n": 120,
+     "true_mean": -27.9,
+     "twin_mean": -26.3,
+     "r": 0.832,
+     "sign_agreement": 1.0,
+     "mae": 4.2
+    },
+    "walk_30min": {
+     "n": 120,
+     "true_mean": -3.4,
+     "twin_mean": -2.7,
+     "r": -0.014,
+     "sign_agreement": 0.967,
+     "mae": 2.3
+    }
+   },
+   "meals": 1182,
+   "spike_share": 0.424,
+   "peak_rise": 83.7
+  }
+ },
+ "west": {
+  "n": 60,
+  "diet": {
+   "kcal_day": 1554.1,
+   "carb": 60.9,
+   "fat": 27.7,
+   "protein": 11.4,
+   "sugar": 8.1,
+   "rice": 24.6,
+   "wheat": 12.5,
+   "millet": 5.8,
+   "animal": 0.6,
+   "meal_gi": 65.7
+  },
+  "body": {
+   "age": 47.5,
+   "bmi": 21.5,
+   "male": 0.42,
+   "inactive": 0.67,
+   "family": 0.08,
+   "hba1c": 5.5,
+   "fpg": 100.0,
+   "tg": 110.5,
+   "hdl": 42.0
+  },
+  "groups": {
+   "healthy": 0.47,
+   "prediabetes": 0.42,
+   "T2D": 0.12
+  },
+  "states": {
+   "Maharashtra": 32,
+   "Gujarat": 28
+  },
+  "twin": {
+   "accuracy": {
+    "30": {
+     "pers": [
+      19.6681,
+      16.9982,
+      22.2952
+     ],
+     "lgbm": [
+      9.4693,
+      8.3367,
+      10.9185
+     ],
+     "twin": [
+      9.2887,
+      8.3417,
+      10.3493
+     ],
+     "hybrid": [
+      7.5534,
+      6.7877,
+      8.4205
+     ],
+     "hybrid_minus_lgbm": [
+      -1.9159,
+      -2.6714,
+      -1.2225
+     ]
+    },
+    "60": {
+     "pers": [
+      32.2754,
+      27.5658,
+      36.6188
+     ],
+     "lgbm": [
+      16.8906,
+      14.6776,
+      19.1713
+     ],
+     "twin": [
+      20.6242,
+      18.0624,
+      23.3753
+     ],
+     "hybrid": [
+      15.528,
+      13.3492,
+      17.9378
+     ],
+     "hybrid_minus_lgbm": [
+      -1.3626,
+      -2.1538,
+      -0.6679
+     ]
+    },
+    "120": {
+     "pers": [
+      41.355,
+      35.3376,
+      46.8293
+     ],
+     "lgbm": [
+      19.7222,
+      17.0497,
+      22.445
+     ],
+     "twin": [
+      31.286,
+      27.3271,
+      34.9795
+     ],
+     "hybrid": [
+      20.5554,
+      17.1241,
+      23.6579
+     ],
+     "hybrid_minus_lgbm": [
+      0.8332,
+      -0.041,
+      1.6599
+     ]
+    }
+   },
+   "verification": {
+    "n_train": 30,
+    "n_test": 30,
+    "rise50_spearman": 0.927,
+    "gb_spearman": 0.932,
+    "gb_mae_mgdl": 3.8,
+    "carbs_minus_40pct": {
+     "n": 120,
+     "true_mean": -25.4,
+     "twin_mean": -24.0,
+     "r": 0.876,
+     "sign_agreement": 1.0,
+     "mae": 4.5
+    },
+    "walk_30min": {
+     "n": 120,
+     "true_mean": -3.7,
+     "twin_mean": -2.5,
+     "r": 0.424,
+     "sign_agreement": 0.975,
+     "mae": 2.0
+    }
+   },
+   "meals": 1201,
+   "spike_share": 0.321,
+   "peak_rise": 69.0
+  }
+ },
+ "central": {
+  "n": 60,
+  "diet": {
+   "kcal_day": 1721.1,
+   "carb": 60.0,
+   "fat": 29.0,
+   "protein": 11.0,
+   "sugar": 7.2,
+   "rice": 18.4,
+   "wheat": 25.5,
+   "millet": 0.0,
+   "animal": 0.2,
+   "meal_gi": 63.3
+  },
+  "body": {
+   "age": 37.5,
+   "bmi": 22.4,
+   "male": 0.53,
+   "inactive": 0.62,
+   "family": 0.1,
+   "hba1c": 5.65,
+   "fpg": 100.5,
+   "tg": 109.0,
+   "hdl": 41.5
+  },
+  "groups": {
+   "healthy": 0.43,
+   "prediabetes": 0.48,
+   "T2D": 0.08
+  },
+  "states": {
+   "Uttar Pradesh": 38,
+   "Madhya Pradesh": 13,
+   "Chhattisgarh": 5,
+   "Uttarakhand": 4
+  },
+  "twin": {
+   "accuracy": {
+    "30": {
+     "pers": [
+      17.7775,
+      16.0904,
+      19.5234
+     ],
+     "lgbm": [
+      8.4405,
+      7.7409,
+      9.1849
+     ],
+     "twin": [
+      8.7849,
+      8.089,
+      9.4714
+     ],
+     "hybrid": [
+      7.2732,
+      6.7693,
+      7.821
+     ],
+     "hybrid_minus_lgbm": [
+      -1.1673,
+      -1.508,
+      -0.8552
+     ]
+    },
+    "60": {
+     "pers": [
+      28.6098,
+      25.6421,
+      31.3496
+     ],
+     "lgbm": [
+      14.7825,
+      13.7294,
+      16.0089
+     ],
+     "twin": [
+      18.7655,
+      17.0681,
+      20.4794
+     ],
+     "hybrid": [
+      14.1198,
+      12.8229,
+      15.4184
+     ],
+     "hybrid_minus_lgbm": [
+      -0.6627,
+      -1.2715,
+      -0.1417
+     ]
+    },
+    "120": {
+     "pers": [
+      36.462,
+      32.9185,
+      39.8164
+     ],
+     "lgbm": [
+      17.4294,
+      16.2308,
+      18.6255
+     ],
+     "twin": [
+      27.7806,
+      25.5682,
+      30.0578
+     ],
+     "hybrid": [
+      17.6035,
+      15.9677,
+      19.2022
+     ],
+     "hybrid_minus_lgbm": [
+      0.1741,
+      -0.7469,
+      0.9045
+     ]
+    }
+   },
+   "verification": {
+    "n_train": 30,
+    "n_test": 30,
+    "rise50_spearman": 0.905,
+    "gb_spearman": 0.887,
+    "gb_mae_mgdl": 5.2,
+    "carbs_minus_40pct": {
+     "n": 120,
+     "true_mean": -19.3,
+     "twin_mean": -18.6,
+     "r": 0.816,
+     "sign_agreement": 1.0,
+     "mae": 3.4
+    },
+    "walk_30min": {
+     "n": 120,
+     "true_mean": -4.1,
+     "twin_mean": -1.9,
+     "r": -0.192,
+     "sign_agreement": 0.992,
+     "mae": 2.6
+    }
+   },
+   "meals": 1185,
+   "spike_share": 0.289,
+   "peak_rise": 64.2
+  }
+ },
+ "northeast": {
+  "n": 60,
+  "diet": {
+   "kcal_day": 1540.9,
+   "carb": 68.2,
+   "fat": 19.3,
+   "protein": 12.4,
+   "sugar": 3.8,
+   "rice": 51.9,
+   "wheat": 4.0,
+   "millet": 0.0,
+   "animal": 3.4,
+   "meal_gi": 68.9
+  },
+  "body": {
+   "age": 37.5,
+   "bmi": 21.15,
+   "male": 0.47,
+   "inactive": 0.62,
+   "family": 0.07,
+   "hba1c": 5.25,
+   "fpg": 95.0,
+   "tg": 117.5,
+   "hdl": 39.5
+  },
+  "groups": {
+   "healthy": 0.6,
+   "prediabetes": 0.33,
+   "T2D": 0.07
+  },
+  "states": {
+   "Assam": 47,
+   "Tripura": 6,
+   "Manipur": 3,
+   "Nagaland": 2,
+   "Arunachal Pradesh": 1,
+   "Meghalaya": 1
+  },
+  "twin": {
+   "accuracy": {
+    "30": {
+     "pers": [
+      22.1132,
+      20.0752,
+      24.2884
+     ],
+     "lgbm": [
+      9.2249,
+      8.47,
+      10.0388
+     ],
+     "twin": [
+      10.1699,
+      9.4316,
+      10.8851
+     ],
+     "hybrid": [
+      8.1661,
+      7.5764,
+      8.7437
+     ],
+     "hybrid_minus_lgbm": [
+      -1.0587,
+      -1.4375,
+      -0.6593
+     ]
+    },
+    "60": {
+     "pers": [
+      35.2335,
+      31.6284,
+      39.3289
+     ],
+     "lgbm": [
+      16.5598,
+      14.8863,
+      18.1613
+     ],
+     "twin": [
+      22.5639,
+      20.6961,
+      24.5158
+     ],
+     "hybrid": [
+      16.8652,
+      15.1546,
+      18.6322
+     ],
+     "hybrid_minus_lgbm": [
+      0.3054,
+      -0.1222,
+      0.7155
+     ]
+    },
+    "120": {
+     "pers": [
+      43.9922,
+      38.5582,
+      50.363
+     ],
+     "lgbm": [
+      19.9148,
+      17.8264,
+      22.6263
+     ],
+     "twin": [
+      32.3453,
+      28.6637,
+      36.7891
+     ],
+     "hybrid": [
+      21.7094,
+      18.5638,
+      25.9138
+     ],
+     "hybrid_minus_lgbm": [
+      1.7947,
+      0.391,
+      3.3758
+     ]
+    }
+   },
+   "verification": {
+    "n_train": 30,
+    "n_test": 30,
+    "rise50_spearman": 0.926,
+    "gb_spearman": 0.879,
+    "gb_mae_mgdl": 4.3,
+    "carbs_minus_40pct": {
+     "n": 120,
+     "true_mean": -27.2,
+     "twin_mean": -23.2,
+     "r": 0.877,
+     "sign_agreement": 1.0,
+     "mae": 5.1
+    },
+    "walk_30min": {
+     "n": 120,
+     "true_mean": -3.4,
+     "twin_mean": -2.2,
+     "r": 0.129,
+     "sign_agreement": 0.975,
+     "mae": 2.0
+    }
+   },
+   "meals": 1194,
+   "spike_share": 0.371,
+   "peak_rise": 77.0
+  }
+ }
+}

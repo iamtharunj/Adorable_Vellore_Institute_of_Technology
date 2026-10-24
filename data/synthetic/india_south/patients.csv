@@ -1,0 +1,61 @@
+Id,BIRTHYEAR,GENDER,SYNTHETIC,TCF7L2_RS7903146_RISK_ALLELES,FAMILY_HISTORY_DIABETES,REGION,STATE,PHYSICALLY_ACTIVE,TOBACCO,ALCOHOL
+INS-001,2006,M,True,0,False,south,Karnataka,False,True,False
+INS-002,1972,M,True,0,False,south,Tamil Nadu,False,False,False
+INS-003,2006,M,True,0,False,south,Andhra Pradesh,False,True,False
+INS-004,1973,F,True,0,True,south,Andhra Pradesh,False,False,True
+INS-005,1977,F,True,2,False,south,Andhra Pradesh,True,False,False
+INS-006,1968,F,True,1,False,south,Tamil Nadu,True,False,False
+INS-007,1972,M,True,0,False,south,Andhra Pradesh,False,False,False
+INS-008,1976,M,True,0,False,south,Karnataka,False,False,False
+INS-009,1987,F,True,1,False,south,Tamil Nadu,True,False,True
+INS-010,2006,F,True,0,True,south,Andhra Pradesh,True,True,False
+INS-011,1988,F,True,0,False,south,Tamil Nadu,False,False,False
+INS-012,1990,M,True,1,False,south,Karnataka,False,False,False
+INS-013,1989,M,True,1,False,south,Andhra Pradesh,False,False,False
+INS-014,2000,M,True,1,False,south,Karnataka,False,False,False
+INS-015,2006,M,True,0,True,south,Karnataka,True,False,False
+INS-016,1995,M,True,0,False,south,Tamil Nadu,True,False,True
+INS-017,1976,M,True,1,False,south,Andhra Pradesh,True,False,False
+INS-018,2000,M,True,1,False,south,Kerala,True,False,True
+INS-019,1979,F,True,1,True,south,Tamil Nadu,False,False,False
+INS-020,2006,M,True,0,True,south,Karnataka,True,True,False
+INS-021,1994,F,True,1,False,south,Tamil Nadu,False,False,False
+INS-022,1980,M,True,1,False,south,Karnataka,False,False,False
+INS-023,1990,M,True,0,True,south,Kerala,True,False,False
+INS-024,1975,M,True,0,False,south,Tamil Nadu,False,False,False
+INS-025,1978,F,True,1,False,south,Andhra Pradesh,False,False,False
+INS-026,1980,F,True,1,True,south,Kerala,False,False,False
+INS-027,1967,F,True,2,True,south,Puducherry,False,False,False
+INS-028,1966,M,True,2,True,south,Tamil Nadu,True,False,True
+INS-029,1976,F,True,0,True,south,Karnataka,False,False,False
+INS-030,2006,F,True,0,False,south,Tamil Nadu,True,False,True
+INS-031,1989,M,True,1,False,south,Andhra Pradesh,False,False,True
+INS-032,1964,M,True,1,False,south,Tamil Nadu,False,False,False
+INS-033,1955,F,True,1,False,south,Andhra Pradesh,False,False,False
+INS-034,1971,F,True,1,False,south,Kerala,True,False,False
+INS-035,1992,F,True,0,False,south,Karnataka,True,False,True
+INS-036,1977,F,True,0,False,south,Andhra Pradesh,True,False,False
+INS-037,1999,M,True,1,False,south,Karnataka,True,True,False
+INS-038,1984,M,True,1,False,south,Tamil Nadu,True,False,False
+INS-039,2004,M,True,0,False,south,Andhra Pradesh,True,False,False
+INS-040,1962,F,True,1,False,south,Karnataka,False,False,False
+INS-041,1985,F,True,0,False,south,Kerala,False,False,True
+INS-042,1979,F,True,0,False,south,Andhra Pradesh,False,False,False
+INS-043,1983,M,True,2,False,south,Karnataka,False,False,False
+INS-044,1976,M,True,0,True,south,Tamil Nadu,True,False,False
+INS-045,1988,F,True,1,False,south,Tamil Nadu,False,False,False
+INS-046,2000,F,True,1,False,south,Karnataka,True,False,False
+INS-047,1977,M,True,0,False,south,Tamil Nadu,True,False,False
+INS-048,1988,F,True,1,False,south,Andhra Pradesh,False,False,False
+INS-049,1959,F,True,0,False,south,Andhra Pradesh,False,False,False
+INS-050,1972,M,True,1,False,south,Tamil Nadu,False,True,False
+INS-051,1995,F,True,2,False,south,Tamil Nadu,False,False,True
+INS-052,1981,M,True,1,False,south,Andhra Pradesh,False,False,False
+INS-053,1995,M,True,0,False,south,Kerala,True,True,True
+INS-054,1973,F,True,0,False,south,Tamil Nadu,True,False,False
+INS-055,2000,M,True,1,False,south,Karnataka,True,False,False
+INS-056,1986,M,True,0,False,south,Tamil Nadu,True,False,False
+INS-057,1986,M,True,0,False,south,Andhra Pradesh,False,False,False
+INS-058,1994,F,True,1,False,south,Karnataka,True,False,False
+INS-059,1990,F,True,1,False,south,Andhra Pradesh,True,False,False
+INS-060,2006,M,True,0,False,south,Andhra Pradesh,True,False,False

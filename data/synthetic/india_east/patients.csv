@@ -1,0 +1,61 @@
+Id,BIRTHYEAR,GENDER,SYNTHETIC,TCF7L2_RS7903146_RISK_ALLELES,FAMILY_HISTORY_DIABETES,REGION,STATE,PHYSICALLY_ACTIVE,TOBACCO,ALCOHOL
+INE-001,1976,M,True,0,False,east,Jharkhand,True,False,False
+INE-002,1995,M,True,0,False,east,Bihar,False,False,False
+INE-003,2006,M,True,0,False,east,West Bengal,True,False,False
+INE-004,1970,M,True,1,False,east,Odisha,False,False,False
+INE-005,1997,F,True,1,False,east,West Bengal,False,False,True
+INE-006,2001,F,True,1,False,east,Bihar,True,False,False
+INE-007,1986,F,True,1,False,east,Bihar,True,False,True
+INE-008,1985,M,True,1,False,east,Odisha,False,False,False
+INE-009,1981,F,True,0,False,east,West Bengal,True,False,False
+INE-010,1973,M,True,0,False,east,Bihar,True,False,False
+INE-011,2006,M,True,1,False,east,West Bengal,False,False,True
+INE-012,2006,F,True,0,False,east,Odisha,False,False,False
+INE-013,1998,M,True,0,False,east,Bihar,False,False,False
+INE-014,1956,M,True,1,False,east,Odisha,False,False,True
+INE-015,1973,M,True,0,False,east,West Bengal,False,False,False
+INE-016,1970,M,True,2,False,east,Odisha,False,False,False
+INE-017,1986,F,True,1,False,east,Bihar,False,False,False
+INE-018,1993,F,True,0,False,east,Bihar,True,False,False
+INE-019,2006,F,True,1,False,east,Jharkhand,False,False,False
+INE-020,1974,F,True,2,False,east,Bihar,True,False,False
+INE-021,1979,M,True,0,False,east,Jharkhand,False,False,False
+INE-022,1976,F,True,0,False,east,West Bengal,True,False,False
+INE-023,1978,M,True,1,True,east,Bihar,False,False,False
+INE-024,1989,F,True,0,False,east,West Bengal,True,False,False
+INE-025,1994,M,True,0,False,east,West Bengal,True,False,False
+INE-026,1981,M,True,1,False,east,Jharkhand,False,False,False
+INE-027,1982,M,True,0,False,east,West Bengal,True,False,False
+INE-028,1971,F,True,2,False,east,Odisha,True,False,False
+INE-029,2006,M,True,1,False,east,Odisha,True,False,True
+INE-030,1973,M,True,1,False,east,Jharkhand,True,True,False
+INE-031,2006,F,True,1,False,east,Bihar,False,False,False
+INE-032,1981,M,True,0,False,east,Bihar,False,False,False
+INE-033,1961,M,True,1,False,east,Odisha,False,False,False
+INE-034,2006,F,True,0,False,east,Odisha,False,False,False
+INE-035,1997,F,True,0,True,east,West Bengal,True,False,False
+INE-036,1980,F,True,2,False,east,West Bengal,True,False,False
+INE-037,1989,F,True,0,False,east,Odisha,False,False,False
+INE-038,2001,M,True,1,False,east,West Bengal,False,False,False
+INE-039,1986,M,True,0,False,east,Bihar,True,False,True
+INE-040,1989,M,True,2,False,east,Bihar,False,False,False
+INE-041,1981,F,True,1,False,east,Odisha,False,True,False
+INE-042,2006,M,True,2,False,east,Bihar,True,False,False
+INE-043,1962,M,True,0,True,east,West Bengal,False,False,False
+INE-044,1951,M,True,1,False,east,Odisha,False,True,False
+INE-045,1968,M,True,0,False,east,West Bengal,False,False,True
+INE-046,1972,F,True,0,False,east,Jharkhand,False,False,False
+INE-047,1981,F,True,1,False,east,Odisha,True,False,False
+INE-048,1972,M,True,0,False,east,Bihar,False,True,False
+INE-049,1985,F,True,0,False,east,West Bengal,True,True,False
+INE-050,1997,M,True,0,False,east,Odisha,False,False,False
+INE-051,1980,F,True,0,False,east,Odisha,True,False,False
+INE-052,1982,F,True,0,False,east,West Bengal,False,False,True
+INE-053,1997,M,True,0,False,east,Odisha,True,False,True
+INE-054,1982,M,True,1,False,east,West Bengal,False,False,False
+INE-055,1963,M,True,1,False,east,West Bengal,True,False,False
+INE-056,1955,F,True,0,False,east,West Bengal,False,True,False
+INE-057,1985,M,True,1,False,east,Bihar,True,False,False
+INE-058,1967,M,True,0,False,east,West Bengal,True,False,True
+INE-059,2006,M,True,1,False,east,West Bengal,False,False,False
+INE-060,1988,F,True,0,False,east,Jharkhand,False,False,False

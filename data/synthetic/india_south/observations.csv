@@ -1,0 +1,421 @@
+PATIENT,DATE,CODE,DESCRIPTION,VALUE,UNITS
+INS-001,2026-01-05,4548-4,Hemoglobin A1c,6.3,%
+INS-001,2026-01-05,1558-6,Fasting glucose,112.0,mg/dL
+INS-001,2026-01-05,20448-7,"Insulin, fasting",9.6,uU/mL
+INS-001,2026-01-05,2571-8,Triglycerides,219.0,mg/dL
+INS-001,2026-01-05,2085-9,HDL cholesterol,39.0,mg/dL
+INS-001,2026-01-05,39156-5,Body mass index,24.8,kg/m2
+INS-001,2026-01-05,29463-7,Body weight,67.1,kg
+INS-002,2026-01-05,4548-4,Hemoglobin A1c,6.0,%
+INS-002,2026-01-05,1558-6,Fasting glucose,102.0,mg/dL
+INS-002,2026-01-05,20448-7,"Insulin, fasting",8.5,uU/mL
+INS-002,2026-01-05,2571-8,Triglycerides,189.0,mg/dL
+INS-002,2026-01-05,2085-9,HDL cholesterol,38.0,mg/dL
+INS-002,2026-01-05,39156-5,Body mass index,20.3,kg/m2
+INS-002,2026-01-05,29463-7,Body weight,57.3,kg
+INS-003,2026-01-05,4548-4,Hemoglobin A1c,5.3,%
+INS-003,2026-01-05,1558-6,Fasting glucose,88.0,mg/dL
+INS-003,2026-01-05,20448-7,"Insulin, fasting",6.1,uU/mL
+INS-003,2026-01-05,2571-8,Triglycerides,141.0,mg/dL
+INS-003,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-003,2026-01-05,39156-5,Body mass index,16.7,kg/m2
+INS-003,2026-01-05,29463-7,Body weight,50.9,kg
+INS-004,2026-01-05,4548-4,Hemoglobin A1c,5.8,%
+INS-004,2026-01-05,1558-6,Fasting glucose,116.0,mg/dL
+INS-004,2026-01-05,20448-7,"Insulin, fasting",8.3,uU/mL
+INS-004,2026-01-05,2571-8,Triglycerides,191.0,mg/dL
+INS-004,2026-01-05,2085-9,HDL cholesterol,48.0,mg/dL
+INS-004,2026-01-05,39156-5,Body mass index,25.3,kg/m2
+INS-004,2026-01-05,29463-7,Body weight,78.9,kg
+INS-005,2026-01-05,4548-4,Hemoglobin A1c,4.7,%
+INS-005,2026-01-05,1558-6,Fasting glucose,85.0,mg/dL
+INS-005,2026-01-05,20448-7,"Insulin, fasting",6.8,uU/mL
+INS-005,2026-01-05,2571-8,Triglycerides,106.0,mg/dL
+INS-005,2026-01-05,2085-9,HDL cholesterol,44.0,mg/dL
+INS-005,2026-01-05,39156-5,Body mass index,23.7,kg/m2
+INS-005,2026-01-05,29463-7,Body weight,57.5,kg
+INS-006,2026-01-05,4548-4,Hemoglobin A1c,7.1,%
+INS-006,2026-01-05,1558-6,Fasting glucose,122.0,mg/dL
+INS-006,2026-01-05,20448-7,"Insulin, fasting",12.8,uU/mL
+INS-006,2026-01-05,2571-8,Triglycerides,114.0,mg/dL
+INS-006,2026-01-05,2085-9,HDL cholesterol,41.0,mg/dL
+INS-006,2026-01-05,39156-5,Body mass index,29.7,kg/m2
+INS-006,2026-01-05,29463-7,Body weight,76.0,kg
+INS-007,2026-01-05,4548-4,Hemoglobin A1c,5.4,%
+INS-007,2026-01-05,1558-6,Fasting glucose,106.0,mg/dL
+INS-007,2026-01-05,20448-7,"Insulin, fasting",7.8,uU/mL
+INS-007,2026-01-05,2571-8,Triglycerides,85.0,mg/dL
+INS-007,2026-01-05,2085-9,HDL cholesterol,47.0,mg/dL
+INS-007,2026-01-05,39156-5,Body mass index,24.4,kg/m2
+INS-007,2026-01-05,29463-7,Body weight,69.7,kg
+INS-008,2026-01-05,4548-4,Hemoglobin A1c,6.2,%
+INS-008,2026-01-05,1558-6,Fasting glucose,123.0,mg/dL
+INS-008,2026-01-05,20448-7,"Insulin, fasting",11.4,uU/mL
+INS-008,2026-01-05,2571-8,Triglycerides,250.0,mg/dL
+INS-008,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-008,2026-01-05,39156-5,Body mass index,35.0,kg/m2
+INS-008,2026-01-05,29463-7,Body weight,95.1,kg
+INS-009,2026-01-05,4548-4,Hemoglobin A1c,5.5,%
+INS-009,2026-01-05,1558-6,Fasting glucose,90.0,mg/dL
+INS-009,2026-01-05,20448-7,"Insulin, fasting",7.2,uU/mL
+INS-009,2026-01-05,2571-8,Triglycerides,98.0,mg/dL
+INS-009,2026-01-05,2085-9,HDL cholesterol,49.0,mg/dL
+INS-009,2026-01-05,39156-5,Body mass index,17.9,kg/m2
+INS-009,2026-01-05,29463-7,Body weight,55.8,kg
+INS-010,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-010,2026-01-05,1558-6,Fasting glucose,91.0,mg/dL
+INS-010,2026-01-05,20448-7,"Insulin, fasting",6.6,uU/mL
+INS-010,2026-01-05,2571-8,Triglycerides,98.0,mg/dL
+INS-010,2026-01-05,2085-9,HDL cholesterol,37.0,mg/dL
+INS-010,2026-01-05,39156-5,Body mass index,22.1,kg/m2
+INS-010,2026-01-05,29463-7,Body weight,63.3,kg
+INS-011,2026-01-05,4548-4,Hemoglobin A1c,5.1,%
+INS-011,2026-01-05,1558-6,Fasting glucose,89.0,mg/dL
+INS-011,2026-01-05,20448-7,"Insulin, fasting",9.8,uU/mL
+INS-011,2026-01-05,2571-8,Triglycerides,59.0,mg/dL
+INS-011,2026-01-05,2085-9,HDL cholesterol,44.0,mg/dL
+INS-011,2026-01-05,39156-5,Body mass index,19.5,kg/m2
+INS-011,2026-01-05,29463-7,Body weight,58.9,kg
+INS-012,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-012,2026-01-05,1558-6,Fasting glucose,88.0,mg/dL
+INS-012,2026-01-05,20448-7,"Insulin, fasting",6.6,uU/mL
+INS-012,2026-01-05,2571-8,Triglycerides,65.0,mg/dL
+INS-012,2026-01-05,2085-9,HDL cholesterol,42.0,mg/dL
+INS-012,2026-01-05,39156-5,Body mass index,16.6,kg/m2
+INS-012,2026-01-05,29463-7,Body weight,36.7,kg
+INS-013,2026-01-05,4548-4,Hemoglobin A1c,5.8,%
+INS-013,2026-01-05,1558-6,Fasting glucose,107.0,mg/dL
+INS-013,2026-01-05,20448-7,"Insulin, fasting",8.0,uU/mL
+INS-013,2026-01-05,2571-8,Triglycerides,79.0,mg/dL
+INS-013,2026-01-05,2085-9,HDL cholesterol,57.0,mg/dL
+INS-013,2026-01-05,39156-5,Body mass index,17.3,kg/m2
+INS-013,2026-01-05,29463-7,Body weight,51.4,kg
+INS-014,2026-01-05,4548-4,Hemoglobin A1c,6.0,%
+INS-014,2026-01-05,1558-6,Fasting glucose,119.0,mg/dL
+INS-014,2026-01-05,20448-7,"Insulin, fasting",7.3,uU/mL
+INS-014,2026-01-05,2571-8,Triglycerides,123.0,mg/dL
+INS-014,2026-01-05,2085-9,HDL cholesterol,41.0,mg/dL
+INS-014,2026-01-05,39156-5,Body mass index,25.9,kg/m2
+INS-014,2026-01-05,29463-7,Body weight,70.9,kg
+INS-015,2026-01-05,4548-4,Hemoglobin A1c,4.7,%
+INS-015,2026-01-05,1558-6,Fasting glucose,90.0,mg/dL
+INS-015,2026-01-05,20448-7,"Insulin, fasting",4.7,uU/mL
+INS-015,2026-01-05,2571-8,Triglycerides,83.0,mg/dL
+INS-015,2026-01-05,2085-9,HDL cholesterol,34.0,mg/dL
+INS-015,2026-01-05,39156-5,Body mass index,16.7,kg/m2
+INS-015,2026-01-05,29463-7,Body weight,45.0,kg
+INS-016,2026-01-05,4548-4,Hemoglobin A1c,6.1,%
+INS-016,2026-01-05,1558-6,Fasting glucose,133.0,mg/dL
+INS-016,2026-01-05,20448-7,"Insulin, fasting",7.3,uU/mL
+INS-016,2026-01-05,2571-8,Triglycerides,142.0,mg/dL
+INS-016,2026-01-05,2085-9,HDL cholesterol,39.0,mg/dL
+INS-016,2026-01-05,39156-5,Body mass index,28.3,kg/m2
+INS-016,2026-01-05,29463-7,Body weight,61.7,kg
+INS-017,2026-01-05,4548-4,Hemoglobin A1c,4.7,%
+INS-017,2026-01-05,1558-6,Fasting glucose,91.0,mg/dL
+INS-017,2026-01-05,20448-7,"Insulin, fasting",5.6,uU/mL
+INS-017,2026-01-05,2571-8,Triglycerides,123.0,mg/dL
+INS-017,2026-01-05,2085-9,HDL cholesterol,46.0,mg/dL
+INS-017,2026-01-05,39156-5,Body mass index,21.8,kg/m2
+INS-017,2026-01-05,29463-7,Body weight,56.1,kg
+INS-018,2026-01-05,4548-4,Hemoglobin A1c,5.7,%
+INS-018,2026-01-05,1558-6,Fasting glucose,96.0,mg/dL
+INS-018,2026-01-05,20448-7,"Insulin, fasting",8.3,uU/mL
+INS-018,2026-01-05,2571-8,Triglycerides,122.0,mg/dL
+INS-018,2026-01-05,2085-9,HDL cholesterol,38.0,mg/dL
+INS-018,2026-01-05,39156-5,Body mass index,17.1,kg/m2
+INS-018,2026-01-05,29463-7,Body weight,49.5,kg
+INS-019,2026-01-05,4548-4,Hemoglobin A1c,5.9,%
+INS-019,2026-01-05,1558-6,Fasting glucose,112.0,mg/dL
+INS-019,2026-01-05,20448-7,"Insulin, fasting",7.5,uU/mL
+INS-019,2026-01-05,2571-8,Triglycerides,152.0,mg/dL
+INS-019,2026-01-05,2085-9,HDL cholesterol,41.0,mg/dL
+INS-019,2026-01-05,39156-5,Body mass index,25.5,kg/m2
+INS-019,2026-01-05,29463-7,Body weight,76.4,kg
+INS-020,2026-01-05,4548-4,Hemoglobin A1c,5.7,%
+INS-020,2026-01-05,1558-6,Fasting glucose,89.0,mg/dL
+INS-020,2026-01-05,20448-7,"Insulin, fasting",7.9,uU/mL
+INS-020,2026-01-05,2571-8,Triglycerides,70.0,mg/dL
+INS-020,2026-01-05,2085-9,HDL cholesterol,34.0,mg/dL
+INS-020,2026-01-05,39156-5,Body mass index,20.4,kg/m2
+INS-020,2026-01-05,29463-7,Body weight,47.4,kg
+INS-021,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-021,2026-01-05,1558-6,Fasting glucose,90.0,mg/dL
+INS-021,2026-01-05,20448-7,"Insulin, fasting",5.6,uU/mL
+INS-021,2026-01-05,2571-8,Triglycerides,83.0,mg/dL
+INS-021,2026-01-05,2085-9,HDL cholesterol,48.0,mg/dL
+INS-021,2026-01-05,39156-5,Body mass index,18.7,kg/m2
+INS-021,2026-01-05,29463-7,Body weight,45.7,kg
+INS-022,2026-01-05,4548-4,Hemoglobin A1c,5.8,%
+INS-022,2026-01-05,1558-6,Fasting glucose,115.0,mg/dL
+INS-022,2026-01-05,20448-7,"Insulin, fasting",9.4,uU/mL
+INS-022,2026-01-05,2571-8,Triglycerides,245.0,mg/dL
+INS-022,2026-01-05,2085-9,HDL cholesterol,38.0,mg/dL
+INS-022,2026-01-05,39156-5,Body mass index,31.2,kg/m2
+INS-022,2026-01-05,29463-7,Body weight,76.9,kg
+INS-023,2026-01-05,4548-4,Hemoglobin A1c,5.7,%
+INS-023,2026-01-05,1558-6,Fasting glucose,105.0,mg/dL
+INS-023,2026-01-05,20448-7,"Insulin, fasting",9.6,uU/mL
+INS-023,2026-01-05,2571-8,Triglycerides,99.0,mg/dL
+INS-023,2026-01-05,2085-9,HDL cholesterol,32.0,mg/dL
+INS-023,2026-01-05,39156-5,Body mass index,22.0,kg/m2
+INS-023,2026-01-05,29463-7,Body weight,60.7,kg
+INS-024,2026-01-05,4548-4,Hemoglobin A1c,6.8,%
+INS-024,2026-01-05,1558-6,Fasting glucose,140.0,mg/dL
+INS-024,2026-01-05,20448-7,"Insulin, fasting",9.9,uU/mL
+INS-024,2026-01-05,2571-8,Triglycerides,164.0,mg/dL
+INS-024,2026-01-05,2085-9,HDL cholesterol,46.0,mg/dL
+INS-024,2026-01-05,39156-5,Body mass index,25.6,kg/m2
+INS-024,2026-01-05,29463-7,Body weight,63.9,kg
+INS-025,2026-01-05,4548-4,Hemoglobin A1c,6.8,%
+INS-025,2026-01-05,1558-6,Fasting glucose,121.0,mg/dL
+INS-025,2026-01-05,20448-7,"Insulin, fasting",9.4,uU/mL
+INS-025,2026-01-05,2571-8,Triglycerides,53.0,mg/dL
+INS-025,2026-01-05,2085-9,HDL cholesterol,37.0,mg/dL
+INS-025,2026-01-05,39156-5,Body mass index,23.6,kg/m2
+INS-025,2026-01-05,29463-7,Body weight,60.3,kg
+INS-026,2026-01-05,4548-4,Hemoglobin A1c,7.7,%
+INS-026,2026-01-05,1558-6,Fasting glucose,135.0,mg/dL
+INS-026,2026-01-05,20448-7,"Insulin, fasting",9.7,uU/mL
+INS-026,2026-01-05,2571-8,Triglycerides,179.0,mg/dL
+INS-026,2026-01-05,2085-9,HDL cholesterol,39.0,mg/dL
+INS-026,2026-01-05,39156-5,Body mass index,31.5,kg/m2
+INS-026,2026-01-05,29463-7,Body weight,79.8,kg
+INS-027,2026-01-05,4548-4,Hemoglobin A1c,7.0,%
+INS-027,2026-01-05,1558-6,Fasting glucose,119.0,mg/dL
+INS-027,2026-01-05,20448-7,"Insulin, fasting",9.6,uU/mL
+INS-027,2026-01-05,2571-8,Triglycerides,211.0,mg/dL
+INS-027,2026-01-05,2085-9,HDL cholesterol,43.0,mg/dL
+INS-027,2026-01-05,39156-5,Body mass index,23.2,kg/m2
+INS-027,2026-01-05,29463-7,Body weight,59.0,kg
+INS-028,2026-01-05,4548-4,Hemoglobin A1c,6.2,%
+INS-028,2026-01-05,1558-6,Fasting glucose,109.0,mg/dL
+INS-028,2026-01-05,20448-7,"Insulin, fasting",5.0,uU/mL
+INS-028,2026-01-05,2571-8,Triglycerides,182.0,mg/dL
+INS-028,2026-01-05,2085-9,HDL cholesterol,52.0,mg/dL
+INS-028,2026-01-05,39156-5,Body mass index,18.1,kg/m2
+INS-028,2026-01-05,29463-7,Body weight,50.5,kg
+INS-029,2026-01-05,4548-4,Hemoglobin A1c,5.9,%
+INS-029,2026-01-05,1558-6,Fasting glucose,119.0,mg/dL
+INS-029,2026-01-05,20448-7,"Insulin, fasting",7.8,uU/mL
+INS-029,2026-01-05,2571-8,Triglycerides,140.0,mg/dL
+INS-029,2026-01-05,2085-9,HDL cholesterol,33.0,mg/dL
+INS-029,2026-01-05,39156-5,Body mass index,27.7,kg/m2
+INS-029,2026-01-05,29463-7,Body weight,74.4,kg
+INS-030,2026-01-05,4548-4,Hemoglobin A1c,5.3,%
+INS-030,2026-01-05,1558-6,Fasting glucose,96.0,mg/dL
+INS-030,2026-01-05,20448-7,"Insulin, fasting",7.6,uU/mL
+INS-030,2026-01-05,2571-8,Triglycerides,101.0,mg/dL
+INS-030,2026-01-05,2085-9,HDL cholesterol,43.0,mg/dL
+INS-030,2026-01-05,39156-5,Body mass index,27.0,kg/m2
+INS-030,2026-01-05,29463-7,Body weight,61.4,kg
+INS-031,2026-01-05,4548-4,Hemoglobin A1c,6.2,%
+INS-031,2026-01-05,1558-6,Fasting glucose,103.0,mg/dL
+INS-031,2026-01-05,20448-7,"Insulin, fasting",10.3,uU/mL
+INS-031,2026-01-05,2571-8,Triglycerides,126.0,mg/dL
+INS-031,2026-01-05,2085-9,HDL cholesterol,43.0,mg/dL
+INS-031,2026-01-05,39156-5,Body mass index,18.0,kg/m2
+INS-031,2026-01-05,29463-7,Body weight,46.4,kg
+INS-032,2026-01-05,4548-4,Hemoglobin A1c,5.9,%
+INS-032,2026-01-05,1558-6,Fasting glucose,111.0,mg/dL
+INS-032,2026-01-05,20448-7,"Insulin, fasting",9.9,uU/mL
+INS-032,2026-01-05,2571-8,Triglycerides,146.0,mg/dL
+INS-032,2026-01-05,2085-9,HDL cholesterol,34.0,mg/dL
+INS-032,2026-01-05,39156-5,Body mass index,24.3,kg/m2
+INS-032,2026-01-05,29463-7,Body weight,62.5,kg
+INS-033,2026-01-05,4548-4,Hemoglobin A1c,6.9,%
+INS-033,2026-01-05,1558-6,Fasting glucose,130.0,mg/dL
+INS-033,2026-01-05,20448-7,"Insulin, fasting",8.0,uU/mL
+INS-033,2026-01-05,2571-8,Triglycerides,215.0,mg/dL
+INS-033,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-033,2026-01-05,39156-5,Body mass index,20.1,kg/m2
+INS-033,2026-01-05,29463-7,Body weight,42.4,kg
+INS-034,2026-01-05,4548-4,Hemoglobin A1c,5.9,%
+INS-034,2026-01-05,1558-6,Fasting glucose,112.0,mg/dL
+INS-034,2026-01-05,20448-7,"Insulin, fasting",5.4,uU/mL
+INS-034,2026-01-05,2571-8,Triglycerides,112.0,mg/dL
+INS-034,2026-01-05,2085-9,HDL cholesterol,45.0,mg/dL
+INS-034,2026-01-05,39156-5,Body mass index,26.1,kg/m2
+INS-034,2026-01-05,29463-7,Body weight,61.6,kg
+INS-035,2026-01-05,4548-4,Hemoglobin A1c,4.9,%
+INS-035,2026-01-05,1558-6,Fasting glucose,87.0,mg/dL
+INS-035,2026-01-05,20448-7,"Insulin, fasting",5.1,uU/mL
+INS-035,2026-01-05,2571-8,Triglycerides,79.0,mg/dL
+INS-035,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-035,2026-01-05,39156-5,Body mass index,19.0,kg/m2
+INS-035,2026-01-05,29463-7,Body weight,49.6,kg
+INS-036,2026-01-05,4548-4,Hemoglobin A1c,5.2,%
+INS-036,2026-01-05,1558-6,Fasting glucose,93.0,mg/dL
+INS-036,2026-01-05,20448-7,"Insulin, fasting",8.0,uU/mL
+INS-036,2026-01-05,2571-8,Triglycerides,101.0,mg/dL
+INS-036,2026-01-05,2085-9,HDL cholesterol,34.0,mg/dL
+INS-036,2026-01-05,39156-5,Body mass index,24.7,kg/m2
+INS-036,2026-01-05,29463-7,Body weight,52.1,kg
+INS-037,2026-01-05,4548-4,Hemoglobin A1c,5.2,%
+INS-037,2026-01-05,1558-6,Fasting glucose,98.0,mg/dL
+INS-037,2026-01-05,20448-7,"Insulin, fasting",8.6,uU/mL
+INS-037,2026-01-05,2571-8,Triglycerides,167.0,mg/dL
+INS-037,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-037,2026-01-05,39156-5,Body mass index,20.4,kg/m2
+INS-037,2026-01-05,29463-7,Body weight,54.2,kg
+INS-038,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-038,2026-01-05,1558-6,Fasting glucose,87.0,mg/dL
+INS-038,2026-01-05,20448-7,"Insulin, fasting",6.5,uU/mL
+INS-038,2026-01-05,2571-8,Triglycerides,180.0,mg/dL
+INS-038,2026-01-05,2085-9,HDL cholesterol,43.0,mg/dL
+INS-038,2026-01-05,39156-5,Body mass index,15.0,kg/m2
+INS-038,2026-01-05,29463-7,Body weight,43.2,kg
+INS-039,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-039,2026-01-05,1558-6,Fasting glucose,86.0,mg/dL
+INS-039,2026-01-05,20448-7,"Insulin, fasting",6.7,uU/mL
+INS-039,2026-01-05,2571-8,Triglycerides,143.0,mg/dL
+INS-039,2026-01-05,2085-9,HDL cholesterol,50.0,mg/dL
+INS-039,2026-01-05,39156-5,Body mass index,20.9,kg/m2
+INS-039,2026-01-05,29463-7,Body weight,56.4,kg
+INS-040,2026-01-05,4548-4,Hemoglobin A1c,6.3,%
+INS-040,2026-01-05,1558-6,Fasting glucose,120.0,mg/dL
+INS-040,2026-01-05,20448-7,"Insulin, fasting",7.2,uU/mL
+INS-040,2026-01-05,2571-8,Triglycerides,139.0,mg/dL
+INS-040,2026-01-05,2085-9,HDL cholesterol,49.0,mg/dL
+INS-040,2026-01-05,39156-5,Body mass index,21.5,kg/m2
+INS-040,2026-01-05,29463-7,Body weight,63.6,kg
+INS-041,2026-01-05,4548-4,Hemoglobin A1c,5.5,%
+INS-041,2026-01-05,1558-6,Fasting glucose,94.0,mg/dL
+INS-041,2026-01-05,20448-7,"Insulin, fasting",4.4,uU/mL
+INS-041,2026-01-05,2571-8,Triglycerides,80.0,mg/dL
+INS-041,2026-01-05,2085-9,HDL cholesterol,39.0,mg/dL
+INS-041,2026-01-05,39156-5,Body mass index,16.7,kg/m2
+INS-041,2026-01-05,29463-7,Body weight,48.7,kg
+INS-042,2026-01-05,4548-4,Hemoglobin A1c,5.5,%
+INS-042,2026-01-05,1558-6,Fasting glucose,101.0,mg/dL
+INS-042,2026-01-05,20448-7,"Insulin, fasting",7.3,uU/mL
+INS-042,2026-01-05,2571-8,Triglycerides,227.0,mg/dL
+INS-042,2026-01-05,2085-9,HDL cholesterol,28.0,mg/dL
+INS-042,2026-01-05,39156-5,Body mass index,25.9,kg/m2
+INS-042,2026-01-05,29463-7,Body weight,70.8,kg
+INS-043,2026-01-05,4548-4,Hemoglobin A1c,6.4,%
+INS-043,2026-01-05,1558-6,Fasting glucose,120.0,mg/dL
+INS-043,2026-01-05,20448-7,"Insulin, fasting",8.7,uU/mL
+INS-043,2026-01-05,2571-8,Triglycerides,164.0,mg/dL
+INS-043,2026-01-05,2085-9,HDL cholesterol,35.0,mg/dL
+INS-043,2026-01-05,39156-5,Body mass index,20.0,kg/m2
+INS-043,2026-01-05,29463-7,Body weight,60.2,kg
+INS-044,2026-01-05,4548-4,Hemoglobin A1c,6.2,%
+INS-044,2026-01-05,1558-6,Fasting glucose,115.0,mg/dL
+INS-044,2026-01-05,20448-7,"Insulin, fasting",8.1,uU/mL
+INS-044,2026-01-05,2571-8,Triglycerides,142.0,mg/dL
+INS-044,2026-01-05,2085-9,HDL cholesterol,32.0,mg/dL
+INS-044,2026-01-05,39156-5,Body mass index,23.1,kg/m2
+INS-044,2026-01-05,29463-7,Body weight,47.3,kg
+INS-045,2026-01-05,4548-4,Hemoglobin A1c,6.2,%
+INS-045,2026-01-05,1558-6,Fasting glucose,123.0,mg/dL
+INS-045,2026-01-05,20448-7,"Insulin, fasting",9.8,uU/mL
+INS-045,2026-01-05,2571-8,Triglycerides,187.0,mg/dL
+INS-045,2026-01-05,2085-9,HDL cholesterol,45.0,mg/dL
+INS-045,2026-01-05,39156-5,Body mass index,26.6,kg/m2
+INS-045,2026-01-05,29463-7,Body weight,62.5,kg
+INS-046,2026-01-05,4548-4,Hemoglobin A1c,5.7,%
+INS-046,2026-01-05,1558-6,Fasting glucose,99.0,mg/dL
+INS-046,2026-01-05,20448-7,"Insulin, fasting",9.7,uU/mL
+INS-046,2026-01-05,2571-8,Triglycerides,189.0,mg/dL
+INS-046,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-046,2026-01-05,39156-5,Body mass index,24.6,kg/m2
+INS-046,2026-01-05,29463-7,Body weight,71.8,kg
+INS-047,2026-01-05,4548-4,Hemoglobin A1c,5.2,%
+INS-047,2026-01-05,1558-6,Fasting glucose,97.0,mg/dL
+INS-047,2026-01-05,20448-7,"Insulin, fasting",6.9,uU/mL
+INS-047,2026-01-05,2571-8,Triglycerides,104.0,mg/dL
+INS-047,2026-01-05,2085-9,HDL cholesterol,41.0,mg/dL
+INS-047,2026-01-05,39156-5,Body mass index,18.1,kg/m2
+INS-047,2026-01-05,29463-7,Body weight,52.9,kg
+INS-048,2026-01-05,4548-4,Hemoglobin A1c,5.3,%
+INS-048,2026-01-05,1558-6,Fasting glucose,95.0,mg/dL
+INS-048,2026-01-05,20448-7,"Insulin, fasting",5.3,uU/mL
+INS-048,2026-01-05,2571-8,Triglycerides,151.0,mg/dL
+INS-048,2026-01-05,2085-9,HDL cholesterol,35.0,mg/dL
+INS-048,2026-01-05,39156-5,Body mass index,19.9,kg/m2
+INS-048,2026-01-05,29463-7,Body weight,52.4,kg
+INS-049,2026-01-05,4548-4,Hemoglobin A1c,5.2,%
+INS-049,2026-01-05,1558-6,Fasting glucose,108.0,mg/dL
+INS-049,2026-01-05,20448-7,"Insulin, fasting",8.8,uU/mL
+INS-049,2026-01-05,2571-8,Triglycerides,100.0,mg/dL
+INS-049,2026-01-05,2085-9,HDL cholesterol,51.0,mg/dL
+INS-049,2026-01-05,39156-5,Body mass index,25.3,kg/m2
+INS-049,2026-01-05,29463-7,Body weight,59.5,kg
+INS-050,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-050,2026-01-05,1558-6,Fasting glucose,89.0,mg/dL
+INS-050,2026-01-05,20448-7,"Insulin, fasting",5.2,uU/mL
+INS-050,2026-01-05,2571-8,Triglycerides,101.0,mg/dL
+INS-050,2026-01-05,2085-9,HDL cholesterol,55.0,mg/dL
+INS-050,2026-01-05,39156-5,Body mass index,15.8,kg/m2
+INS-050,2026-01-05,29463-7,Body weight,43.6,kg
+INS-051,2026-01-05,4548-4,Hemoglobin A1c,4.8,%
+INS-051,2026-01-05,1558-6,Fasting glucose,87.0,mg/dL
+INS-051,2026-01-05,20448-7,"Insulin, fasting",8.1,uU/mL
+INS-051,2026-01-05,2571-8,Triglycerides,79.0,mg/dL
+INS-051,2026-01-05,2085-9,HDL cholesterol,46.0,mg/dL
+INS-051,2026-01-05,39156-5,Body mass index,24.8,kg/m2
+INS-051,2026-01-05,29463-7,Body weight,69.4,kg
+INS-052,2026-01-05,4548-4,Hemoglobin A1c,5.4,%
+INS-052,2026-01-05,1558-6,Fasting glucose,86.0,mg/dL
+INS-052,2026-01-05,20448-7,"Insulin, fasting",5.9,uU/mL
+INS-052,2026-01-05,2571-8,Triglycerides,161.0,mg/dL
+INS-052,2026-01-05,2085-9,HDL cholesterol,39.0,mg/dL
+INS-052,2026-01-05,39156-5,Body mass index,18.6,kg/m2
+INS-052,2026-01-05,29463-7,Body weight,40.8,kg
+INS-053,2026-01-05,4548-4,Hemoglobin A1c,6.0,%
+INS-053,2026-01-05,1558-6,Fasting glucose,109.0,mg/dL
+INS-053,2026-01-05,20448-7,"Insulin, fasting",6.7,uU/mL
+INS-053,2026-01-05,2571-8,Triglycerides,99.0,mg/dL
+INS-053,2026-01-05,2085-9,HDL cholesterol,50.0,mg/dL
+INS-053,2026-01-05,39156-5,Body mass index,18.6,kg/m2
+INS-053,2026-01-05,29463-7,Body weight,60.6,kg
+INS-054,2026-01-05,4548-4,Hemoglobin A1c,5.4,%
+INS-054,2026-01-05,1558-6,Fasting glucose,102.0,mg/dL
+INS-054,2026-01-05,20448-7,"Insulin, fasting",8.1,uU/mL
+INS-054,2026-01-05,2571-8,Triglycerides,175.0,mg/dL
+INS-054,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-054,2026-01-05,39156-5,Body mass index,17.4,kg/m2
+INS-054,2026-01-05,29463-7,Body weight,38.4,kg
+INS-055,2026-01-05,4548-4,Hemoglobin A1c,5.9,%
+INS-055,2026-01-05,1558-6,Fasting glucose,112.0,mg/dL
+INS-055,2026-01-05,20448-7,"Insulin, fasting",8.0,uU/mL
+INS-055,2026-01-05,2571-8,Triglycerides,131.0,mg/dL
+INS-055,2026-01-05,2085-9,HDL cholesterol,31.0,mg/dL
+INS-055,2026-01-05,39156-5,Body mass index,17.3,kg/m2
+INS-055,2026-01-05,29463-7,Body weight,47.9,kg
+INS-056,2026-01-05,4548-4,Hemoglobin A1c,5.4,%
+INS-056,2026-01-05,1558-6,Fasting glucose,104.0,mg/dL
+INS-056,2026-01-05,20448-7,"Insulin, fasting",5.4,uU/mL
+INS-056,2026-01-05,2571-8,Triglycerides,202.0,mg/dL
+INS-056,2026-01-05,2085-9,HDL cholesterol,40.0,mg/dL
+INS-056,2026-01-05,39156-5,Body mass index,23.1,kg/m2
+INS-056,2026-01-05,29463-7,Body weight,54.3,kg
+INS-057,2026-01-05,4548-4,Hemoglobin A1c,6.4,%
+INS-057,2026-01-05,1558-6,Fasting glucose,102.0,mg/dL
+INS-057,2026-01-05,20448-7,"Insulin, fasting",8.2,uU/mL
+INS-057,2026-01-05,2571-8,Triglycerides,84.0,mg/dL
+INS-057,2026-01-05,2085-9,HDL cholesterol,41.0,mg/dL
+INS-057,2026-01-05,39156-5,Body mass index,21.1,kg/m2
+INS-057,2026-01-05,29463-7,Body weight,40.5,kg
+INS-058,2026-01-05,4548-4,Hemoglobin A1c,5.0,%
+INS-058,2026-01-05,1558-6,Fasting glucose,88.0,mg/dL
+INS-058,2026-01-05,20448-7,"Insulin, fasting",7.9,uU/mL
+INS-058,2026-01-05,2571-8,Triglycerides,56.0,mg/dL
+INS-058,2026-01-05,2085-9,HDL cholesterol,35.0,mg/dL
+INS-058,2026-01-05,39156-5,Body mass index,15.0,kg/m2
+INS-058,2026-01-05,29463-7,Body weight,40.7,kg
+INS-059,2026-01-05,4548-4,Hemoglobin A1c,4.6,%
+INS-059,2026-01-05,1558-6,Fasting glucose,82.0,mg/dL
+INS-059,2026-01-05,20448-7,"Insulin, fasting",9.0,uU/mL
+INS-059,2026-01-05,2571-8,Triglycerides,151.0,mg/dL
+INS-059,2026-01-05,2085-9,HDL cholesterol,47.0,mg/dL
+INS-059,2026-01-05,39156-5,Body mass index,23.7,kg/m2
+INS-059,2026-01-05,29463-7,Body weight,73.6,kg
+INS-060,2026-01-05,4548-4,Hemoglobin A1c,4.7,%
+INS-060,2026-01-05,1558-6,Fasting glucose,85.0,mg/dL
+INS-060,2026-01-05,20448-7,"Insulin, fasting",6.8,uU/mL
+INS-060,2026-01-05,2571-8,Triglycerides,103.0,mg/dL
+INS-060,2026-01-05,2085-9,HDL cholesterol,45.0,mg/dL
+INS-060,2026-01-05,39156-5,Body mass index,19.1,kg/m2
+INS-060,2026-01-05,29463-7,Body weight,44.5,kg

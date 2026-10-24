@@ -1,0 +1,61 @@
+Id,BIRTHYEAR,GENDER,SYNTHETIC,TCF7L2_RS7903146_RISK_ALLELES,FAMILY_HISTORY_DIABETES,REGION,STATE,PHYSICALLY_ACTIVE,TOBACCO,ALCOHOL
+INC-001,1961,F,True,0,False,central,Madhya Pradesh,False,False,False
+INC-002,1953,F,True,1,False,central,Uttar Pradesh,False,False,False
+INC-003,1996,F,True,0,False,central,Uttar Pradesh,False,False,False
+INC-004,2004,F,True,1,False,central,Uttar Pradesh,False,False,False
+INC-005,1972,M,True,0,False,central,Chhattisgarh,True,False,False
+INC-006,1964,F,True,0,False,central,Madhya Pradesh,True,False,False
+INC-007,1981,M,True,0,False,central,Uttar Pradesh,False,False,False
+INC-008,1970,F,True,0,False,central,Madhya Pradesh,True,False,False
+INC-009,1983,F,True,0,True,central,Uttar Pradesh,False,False,False
+INC-010,1960,M,True,0,False,central,Uttar Pradesh,True,False,True
+INC-011,2000,M,True,1,False,central,Uttar Pradesh,False,False,False
+INC-012,1997,F,True,1,False,central,Uttar Pradesh,False,False,False
+INC-013,1998,F,True,0,False,central,Uttar Pradesh,True,False,True
+INC-014,2004,M,True,1,False,central,Madhya Pradesh,False,False,False
+INC-015,1958,M,True,1,False,central,Uttar Pradesh,False,False,True
+INC-016,1952,M,True,1,True,central,Uttar Pradesh,True,False,False
+INC-017,1974,M,True,0,False,central,Chhattisgarh,False,False,False
+INC-018,2002,M,True,1,False,central,Uttarakhand,False,False,False
+INC-019,1989,F,True,2,False,central,Uttar Pradesh,False,False,False
+INC-020,1962,M,True,1,False,central,Madhya Pradesh,True,False,False
+INC-021,1988,M,True,0,False,central,Madhya Pradesh,True,True,False
+INC-022,2006,M,True,0,False,central,Uttar Pradesh,False,False,False
+INC-023,2006,F,True,0,False,central,Uttar Pradesh,False,False,True
+INC-024,1977,M,True,0,True,central,Uttar Pradesh,True,False,False
+INC-025,2001,F,True,1,False,central,Madhya Pradesh,False,False,False
+INC-026,1998,M,True,0,False,central,Uttar Pradesh,False,False,False
+INC-027,1991,M,True,0,False,central,Chhattisgarh,False,False,False
+INC-028,2004,F,True,0,False,central,Uttar Pradesh,True,True,False
+INC-029,1965,F,True,0,False,central,Uttar Pradesh,True,False,False
+INC-030,1982,F,True,0,False,central,Uttar Pradesh,True,False,False
+INC-031,2006,M,True,0,False,central,Uttar Pradesh,True,False,False
+INC-032,1950,M,True,2,False,central,Chhattisgarh,False,False,False
+INC-033,1989,M,True,1,True,central,Uttar Pradesh,False,False,False
+INC-034,1972,F,True,0,False,central,Madhya Pradesh,False,False,False
+INC-035,1989,M,True,0,False,central,Uttar Pradesh,False,False,False
+INC-036,2006,F,True,0,False,central,Uttar Pradesh,True,False,False
+INC-037,1990,F,True,0,False,central,Uttar Pradesh,True,False,False
+INC-038,2006,F,True,1,False,central,Uttarakhand,False,False,False
+INC-039,1992,M,True,0,False,central,Uttarakhand,False,False,False
+INC-040,1979,M,True,1,False,central,Uttarakhand,False,False,False
+INC-041,1992,F,True,0,False,central,Uttar Pradesh,False,False,False
+INC-042,1954,F,True,2,False,central,Uttar Pradesh,True,False,False
+INC-043,1995,M,True,2,False,central,Uttar Pradesh,False,True,False
+INC-044,1970,F,True,0,True,central,Uttar Pradesh,True,False,False
+INC-045,1981,M,True,0,False,central,Madhya Pradesh,False,True,False
+INC-046,1988,M,True,0,False,central,Uttar Pradesh,False,False,False
+INC-047,1995,M,True,1,False,central,Madhya Pradesh,False,False,False
+INC-048,1991,F,True,0,False,central,Uttar Pradesh,False,False,False
+INC-049,1995,F,True,1,False,central,Uttar Pradesh,True,False,False
+INC-050,1976,F,True,1,False,central,Uttar Pradesh,True,False,False
+INC-051,1963,M,True,1,False,central,Madhya Pradesh,True,False,False
+INC-052,1981,M,True,0,False,central,Uttar Pradesh,True,False,False
+INC-053,1980,F,True,0,False,central,Uttar Pradesh,False,False,False
+INC-054,1997,M,True,1,False,central,Madhya Pradesh,False,False,False
+INC-055,1997,M,True,2,False,central,Uttar Pradesh,False,False,False
+INC-056,2001,M,True,0,False,central,Madhya Pradesh,False,False,True
+INC-057,1991,F,True,1,True,central,Uttar Pradesh,True,False,True
+INC-058,1982,M,True,0,False,central,Uttar Pradesh,False,False,False
+INC-059,1978,M,True,1,False,central,Chhattisgarh,True,False,False
+INC-060,1980,F,True,1,False,central,Uttar Pradesh,False,False,False
